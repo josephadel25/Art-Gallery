@@ -60,7 +60,7 @@ software-engineering/
 ### 🎨 Artist Profile
 ![Artist Profile](img/screenshots/artist_profile.png)
 
-### 🧑‍💼 Sculptures home
+### 🧑‍💼 Sculptures Home
 ![Admin Dashboard](img/screenshots/Sculptures-home.png)
 
 ## 🧭 Diagrams
